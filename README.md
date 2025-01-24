@@ -1,6 +1,8 @@
-# 6020project
-This is the project for course STAT6020.
+## Project Overview
+This repository contains the project files for the course **STAT6020**. The project is a replication study on the topic of **Latent Dirichlet Allocation (LDA)**.
 
-The file named STAT6020_Project_Gibbs.ipynb is the codes for implementing collapsed Gibbs sampling for the project.
+### Key Files
+- **`Final_report_6020_Gao_Siyi.pdf`**: The final report for the project.
+- **`STAT6020_Project_Gibbs.ipynb`**: Code implementation for the **collapsed Gibbs sampling** method.
+- **`STAT6020_Project_Variational_EM_part.ipynb`**: Code implementation for the **variational EM algorithm**.
 
-The file named STAT6020_Project_Variational_EM_part.ipynb is the codes for implementing variational EM algorithm for the project.
